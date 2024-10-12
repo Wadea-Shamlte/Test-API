@@ -3,13 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\APi_Layer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C484BB78-B4F7-4198-A481-DDD16123E81C}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\wadea\\onedrive\\desktop\\test api\\dataaccess_layer\\repositories\\instructorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C484BB78-B4F7-4198-A481-DDD16123E81C}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\wadea\\onedrive\\desktop\\test api\\dataaccess_layer\\repositoriesinterface\\instructorirepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C484BB78-B4F7-4198-A481-DDD16123E81C}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\wadea\\onedrive\\desktop\\test api\\dataaccess_layer\\repositoriesinterface\\studentirepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C484BB78-B4F7-4198-A481-DDD16123E81C}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\wadea\\onedrive\\desktop\\test api\\dataaccess_layer\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C484BB78-B4F7-4198-A481-DDD16123E81C}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\wadea\\onedrive\\desktop\\test api\\dataaccess_layer\\confiers\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C484BB78-B4F7-4198-A481-DDD16123E81C}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\wadea\\onedrive\\desktop\\test api\\dataaccess_layer\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C484BB78-B4F7-4198-A481-DDD16123E81C}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\wadea\\onedrive\\desktop\\test api\\dataaccess_layer\\repositoriesinterface\\studentirepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C484BB78-B4F7-4198-A481-DDD16123E81C}|..\\DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\wadea\\onedrive\\desktop\\test api\\dataaccess_layer\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -31,11 +40,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InstructorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\DataAccess_Layer\\Repositories\\InstructorRepo.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess_Layer\\Repositories\\InstructorRepo.cs",
+              "ToolTip": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\DataAccess_Layer\\Repositories\\InstructorRepo.cs",
+              "RelativeToolTip": "..\\DataAccess_Layer\\Repositories\\InstructorRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:48:21.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\DataAccess_Layer\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess_Layer\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\DataAccess_Layer\\Models\\Instructor.cs",
+              "RelativeToolTip": "..\\DataAccess_Layer\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:45:50.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstructorIRepo.cs",
+              "DocumentMoniker": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\DataAccess_Layer\\RepositoriesInterface\\InstructorIRepo.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess_Layer\\RepositoriesInterface\\InstructorIRepo.cs",
+              "ToolTip": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\DataAccess_Layer\\RepositoriesInterface\\InstructorIRepo.cs",
+              "RelativeToolTip": "..\\DataAccess_Layer\\RepositoriesInterface\\InstructorIRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:43:34.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "StudentConfig.cs",
               "DocumentMoniker": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\DataAccess_Layer\\Confiers\\StudentConfig.cs",
               "RelativeDocumentMoniker": "..\\DataAccess_Layer\\Confiers\\StudentConfig.cs",
@@ -47,16 +103,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\DataAccess_Layer\\DbContexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\DataAccess_Layer\\DbContexts\\AppDbContext.cs",
@@ -64,8 +112,7 @@
               "RelativeToolTip": "..\\DataAccess_Layer\\DbContexts\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T12:16:26.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T12:16:26.936Z"
             },
             {
               "$type": "Document",
@@ -75,14 +122,14 @@
               "RelativeDocumentMoniker": "..\\DataAccess_Layer\\RepositoriesInterface\\StudentIRepo.cs",
               "ToolTip": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\DataAccess_Layer\\RepositoriesInterface\\StudentIRepo.cs",
               "RelativeToolTip": "..\\DataAccess_Layer\\RepositoriesInterface\\StudentIRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T12:06:43.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "StudentRepo.cs",
               "DocumentMoniker": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\DataAccess_Layer\\Repositories\\StudentRepo.cs",
               "RelativeDocumentMoniker": "..\\DataAccess_Layer\\Repositories\\StudentRepo.cs",
@@ -90,12 +137,11 @@
               "RelativeToolTip": "..\\DataAccess_Layer\\Repositories\\StudentRepo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T12:06:17.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T12:06:17.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "StudentDTO.cs",
               "DocumentMoniker": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\DataAccess_Layer\\DTOs\\StudentDTO.cs",
               "RelativeDocumentMoniker": "..\\DataAccess_Layer\\DTOs\\StudentDTO.cs",
@@ -103,12 +149,11 @@
               "RelativeToolTip": "..\\DataAccess_Layer\\DTOs\\StudentDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T12:02:16.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T12:02:16.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\DataAccess_Layer\\Class1.cs",
               "RelativeDocumentMoniker": "..\\DataAccess_Layer\\Class1.cs",
@@ -116,12 +161,11 @@
               "RelativeToolTip": "..\\DataAccess_Layer\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T11:58:55.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T11:58:55.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\wadea\\OneDrive\\Desktop\\Test API\\Business_Layer\\Class1.cs",
               "RelativeDocumentMoniker": "..\\Business_Layer\\Class1.cs",
@@ -129,8 +173,7 @@
               "RelativeToolTip": "..\\Business_Layer\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T11:58:23.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T11:58:23.777Z"
             }
           ]
         }
